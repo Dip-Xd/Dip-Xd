@@ -1,16 +1,16 @@
-### Hi there 👋
+
 
 <!--
-**Dip-Xd/Dip-Xd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on git
+- 🌱 I’m currently learning python 
 -->
+
+
+♡ <img src="https://i.pinimg.com/originals/01/63/6c/01636c5434cd0462086620c60fdfec16.gif" width="60px">  **Hey i'm** ♥[Dip-Xd](https://t.me/@Dip_xd) | [![Profile Views](https://gpvc.arturio.dev/Dip-Xd)](https://github.com/Dip-Xd)
+
+<p align="center">
+
+  <a href="https://github.com/Dip-Xd"><img src="https://sharasolutions.com/wp-content/uploads/2019/01/programming.gif"></a>
